@@ -1,2 +1,2 @@
-# Fedor
-Fedor - Discord Voice Assistant
+# VoiceBot
+Vasilisa - Discord Voice Assistant
